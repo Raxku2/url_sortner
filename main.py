@@ -49,7 +49,7 @@ def short(data: shortData):
                         return {
                             "status": 200,
                             "message": "recorded",
-                            "url": f"http://localhost:8000/{token}",
+                            "url": f"https://url-sortner-sigma.vercel.app/{token}",
                         }
                     break
         except:
