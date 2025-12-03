@@ -11,7 +11,7 @@ from fastapi.responses import RedirectResponse
 class shortData(BaseModel):
     url: str
 
-app = FastAPI()
+app = FastAPI(title="URL Shortner API")
 
 load_dotenv()
 
