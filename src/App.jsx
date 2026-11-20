@@ -1,8 +1,4 @@
-
-import { RiSystemCheckFill, RiSystemErrorWarningFill } from "solid-icons/ri";
 import Header from "./component/Header";
-import HomeMain from "./component/HomeMain";
-
 
 function App(props) {
 

@@ -12,8 +12,8 @@ const root = document.getElementById('root')
 render(() => (
     <Router>
         <Route component={App}>
-            <Route path="/"  component={<HomeMain/>} />
-            <Route path="/concent"  component={<Concent/>} />
+            <Route path="/"  component={HomeMain} />
+            <Route path="/concent"  component={Concent} />
 
         </Route>
     </Router>
