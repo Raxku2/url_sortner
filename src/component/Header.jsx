@@ -10,6 +10,7 @@ function Header() {
 
                 <img src="./Logo.svg" alt="Logo" class="h-12 m-2.5" />
             </A>
+            <h1>Fast & Private URL Shortener </h1>
             <button class="flex p-2 rounded-[10px] m-2.5 border border-[white] gap-4 items-center justify-between cursor-pointer">
                 < RiLogosGoogleFill class="text-[30px] text-white" />
                 <span class="text-6 font-bold ">Login</span>

@@ -2,7 +2,7 @@
 function Terms() {
 
     return (
-        <main>
+        <main class="flex-1  items-center justify-center overflow-auto " >
             <header>
                 <h1>Terms and Conditions</h1>
                 <p ><strong>Effective Date:</strong> November 26, 2026</p>
